@@ -1,0 +1,12 @@
+[alias]
+	co = checkout
+	s = status -s
+	lg = log --oneline --decorate --all --graph
+[color]
+	ui = true
+[core]
+	autoclrf = true
+[push]
+	default = simple
+[pull]
+	rebase = true
