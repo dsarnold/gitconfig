@@ -1,0 +1,2 @@
+# gitconfig
+Global .gitconfig
